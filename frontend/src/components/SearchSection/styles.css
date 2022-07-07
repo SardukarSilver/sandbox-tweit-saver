@@ -1,0 +1,13 @@
+.search-section-wrapper {
+    width: 45%;
+}
+
+.search-results {
+    border: 1px solid rgb(164, 164, 164);
+    border-radius: 6px;
+    height: 80vh;
+}
+
+.search-results .card-wrapper:first-child {
+    border-radius: 6px 6px 0 0;
+}

@@ -1,0 +1,28 @@
+.save-section-wrapper {
+    width: 45%;
+    height: 80vh;
+}
+
+.clear-btn button{
+    height: 30px;
+}
+
+.clear-btn {
+    margin-bottom: 5px;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.save-list-wrapper {
+    border: 1px solid rgb(164, 164, 164);
+    border-radius: 6px;
+    height: 80vh;
+}
+
+.save-list-wrapper .card-wrapper:first-child {
+    border-radius: 6px 6px 0 0;
+}
+
+.save-list-wrapper .card-wrapper {
+    cursor: default;
+}

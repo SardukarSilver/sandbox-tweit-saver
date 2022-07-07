@@ -1,0 +1,35 @@
+.card-wrapper {
+    display: flex;
+    font-display: row;
+    flex-wrap: nowrap;
+    padding: 2px;
+    border-bottom: 1px solid rgb(164, 164, 164);
+    user-select: none;
+    cursor: move;
+    background-color: #fff;
+}
+
+.avatar {
+    margin-right: 5px;
+}
+
+.avatar img {
+    border-radius: 6px;
+}
+
+.info-data {
+    display: flex;
+    justify-content: space-between;
+    font-weight: 700;
+    margin-bottom: 5px;
+}
+
+.twit-text {
+    font-size: 13px;
+}
+
+.card-body-wrapper {
+    padding: 1px 0;
+    width: 100%;
+}
+

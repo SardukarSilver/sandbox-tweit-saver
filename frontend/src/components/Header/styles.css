@@ -1,0 +1,16 @@
+.header-wrapper {
+    height: 40px;
+    padding: 5px;
+    display: flex;
+    align-items: center;
+    background-color: rgb(190, 190, 190);
+}
+
+.header-logo {
+    padding: 0 5px;
+}
+
+.header-title {
+    display: grid;
+    align-content: center;
+}
